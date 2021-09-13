@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Check out my StackOverflow profile [here](https://stackoverflow.com/users/13328010/davidebrex?tab=profile)
+
+
 <!--
 **DavideBrex/DavideBrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
