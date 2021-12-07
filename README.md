@@ -8,7 +8,7 @@ Trained as computer scientist, now working as computational biologist/bioinforma
 #### Contact
 [![linkedin](https://github.com/MartinBanchero/MartinBanchero/blob/master/linkedins.png) Davide Bressan](https://www.linkedin.com/in/davide-bressan/)
 &nbsp;
-[![email](https://github.com/DavideBrex/DavideBrex/blob/main/unitn.png) davide.bressan-1@unitn.it](mailto:davide.bressan-1@unitn.it)
+[<img src="https://github.com/DavideBrex/DavideBrex/blob/main/unitn.png" alt="Unitn logodth="50"/> davide.bressan-1@unitn.it](mailto:davide.bressan-1@unitn.it)
 &nbsp;
 
 
