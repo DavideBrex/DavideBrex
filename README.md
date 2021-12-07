@@ -1,14 +1,16 @@
 ### Hi there 👋
 ## Davide Bressan
-Trained as computer scientist, now working as computational biologist/bioinformatician (PhD student). 
+Trained as computer scientist and bioinformatician,I am now working as computational biologist in the laboratory of stem cells and cancer genomics at the university of Trento (PhD student). 
+- 🔭 I’m currently working on epigenetics,
+- 🌱 I’m currently learning scRNA-seq, scATAC-seq
 
   - Check out my StackOverflow [profile](https://stackoverflow.com/users/13328010/davidebrex?tab=profile)
   - My [lab website](https://www.cibio.unitn.it/956/laboratory-of-stem-cells-and-cancer-genomics)
 
-#### Contact
+#### Contact 📫
 [![linkedin](https://github.com/MartinBanchero/MartinBanchero/blob/master/linkedins.png) Davide Bressan](https://www.linkedin.com/in/davide-bressan/)
 &nbsp;
-[<img src="https://github.com/DavideBrex/DavideBrex/blob/main/unitn.png" alt="Unitn logo" width="50" /> davide.bressan-1@unitn.it](mailto:davide.bressan-1@unitn.it)
+[<img src="https://github.com/DavideBrex/DavideBrex/blob/main/unitn.png" alt="Unitn logo" width="40" /> davide.bressan-1@unitn.it](mailto:davide.bressan-1@unitn.it)
 &nbsp;
 
 
