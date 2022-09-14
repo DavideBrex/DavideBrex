@@ -5,8 +5,8 @@ Trained as computer scientist and bioinformatician, I am now working as computat
 - 🔭 I’m currently working on the epigenetics of liver regeneration and tumorigeneisis. 
 - 🌱 I’m currently learning scRNA-seq, scATAC-seq
 
-  - Check out my StackOverflow [profile](https://stackoverflow.com/users/13328010/davidebrex?tab=profile)
-  - My [lab website](https://www.cibio.unitn.it/956/laboratory-of-stem-cells-and-cancer-genomics)
+- Check out my StackOverflow [profile](https://stackoverflow.com/users/13328010/davidebrex?tab=profile)
+- My [lab website](https://www.cibio.unitn.it/956/laboratory-of-stem-cells-and-cancer-genomics)
 
 #### Contact 📫
 [![linkedin](https://github.com/MartinBanchero/MartinBanchero/blob/master/linkedins.png) Davide Bressan](https://www.linkedin.com/in/davide-bressan/)
