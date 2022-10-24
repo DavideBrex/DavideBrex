@@ -13,7 +13,7 @@ Trained as computer scientist and bioinformatician, I am now working as computat
 &nbsp;
 [<img src="https://github.com/DavideBrex/DavideBrex/blob/main/unitn.png" alt="Unitn logo" width="40" /> davide.bressan-1@unitn.it](mailto:davide.bressan-1@unitn.it)
 &nbsp;
-[![Personal Website]() Davide Bressan]( https://davidebrex.github.io/)
+[![Personal Website]()]( https://davidebrex.github.io/)
 &nbsp;
 
 
