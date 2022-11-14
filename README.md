@@ -11,7 +11,7 @@ Trained as computer scientist and bioinformatician, I am now working as computat
 #### Contact 📫
 - [![Personal Website]()]( https://davidebrex.github.io/)
 &nbsp;
--  [![](https://github.com/MartinBanchero/MartinBanchero/blob/master/linkedins.png)Linkedin](https://www.linkedin.com/in/davide-bressan/)
+-  [![] Linkedin ( https://github.com/MartinBanchero/MartinBanchero/blob/master/linkedins.png)](https://www.linkedin.com/in/davide-bressan/)
 - davide.bressan-1@unitn.it [<img src="https://github.com/DavideBrex/DavideBrex/blob/main/unitn.png" alt="Unitn logo" width="40" /> ](mailto:davide.bressan-1@unitn.it)
 
 
