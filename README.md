@@ -9,7 +9,7 @@ Trained as computer scientist and bioinformatician, I am now working as computat
 - My [lab website](https://www.cibio.unitn.it/956/laboratory-of-stem-cells-and-cancer-genomics)
 
 #### Contact 📫
-- [![Personal Website](https://github.com/DavideBrex/DavideBrex/blob/a8d9e7dd2e153eb71bdd13d6617a7466d8c91a77/aaaa.png =20x20)]( https://davidebrex.github.io/)
+- [![Personal Website]()]( https://davidebrex.github.io/)
 &nbsp;
 -  [![Linkedin]( https://github.com/MartinBanchero/MartinBanchero/blob/master/linkedins.png)](https://www.linkedin.com/in/davide-bressan/)
 - davide.bressan-1@unitn.it [<img src="https://github.com/DavideBrex/DavideBrex/blob/main/unitn.png" alt="Unitn logo" width="40" /> ](mailto:davide.bressan-1@unitn.it)
