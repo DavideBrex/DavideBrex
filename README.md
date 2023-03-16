@@ -16,3 +16,6 @@ Trained as computer scientist and bioinformatician, I am now working as computat
 
 
 ![](https://komarev.com/ghpvc/?username=DavideBrex)
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=DavideBrex)](https://git.io/streak-stats)
