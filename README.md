@@ -10,10 +10,14 @@ Trained as computer scientist and bioinformatician, I am now working as a comput
 
 
 [<img alt="alt_text" width="120px" src="logo-stackoverflow.png" />](https://stackoverflow.com/users/13328010/davidebrex?tab=profile)
+[<img alt="alt_text" width="20px" src="linkedin_logo.png" />](https://www.linkedin.com/in/davide-bressan/) 
+
+ [<img src="logo_gmail.png" alt="Unitn logo" width="30" /> ](mailto:davide.bressan-1@unitn.it)
+
 
 &nbsp;
--  [![Linkedin]( https://github.com/MartinBanchero/MartinBanchero/blob/master/linkedins.png)](https://www.linkedin.com/in/davide-bressan/)
-- davide.bressan-1@unitn.it [<img src="https://github.com/DavideBrex/DavideBrex/blob/main/unitn.png" alt="Unitn logo" width="40" /> ](mailto:davide.bressan-1@unitn.it)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DavideBrex)](https://git.io/streak-stats)
 
 
 <img alt="alt_text" width="1000px" src="banner_tovel_drone.jpg" />
@@ -21,5 +25,3 @@ Trained as computer scientist and bioinformatician, I am now working as a comput
 
 
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=DavideBrex)](https://git.io/streak-stats)
