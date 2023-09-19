@@ -3,7 +3,7 @@
 |:--:| 
 | *Tovel Lake - Trentino - Italy.  Drone shot by me* |
 
-## Davide Bressan  ![](https://komarev.com/ghpvc/?username=DavideBrex)
+## Hi all! I am Davide Bressan  ![](https://komarev.com/ghpvc/?username=DavideBrex)
 
 Trained as computer scientist and bioinformatician, I am now working as a computational biologist in the stem cells and cancer genomics laboratory at the University of Trento (PhD student). 
 
