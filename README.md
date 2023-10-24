@@ -3,7 +3,7 @@
 |:--:| 
 | *Tovel Lake - Trentino - Italy.  Drone shot by me* |
 
-###  Hi all! ![](https://komarev.com/ghpvc/?username=DavideBrex)
+###  Hi all! 
 
 Trained as computer scientist and bioinformatician, I am now working as a computational biologist in the stem cells and cancer genomics laboratory at the University of Trento (PhD student). 
 
