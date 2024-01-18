@@ -24,7 +24,7 @@ Trained as computer scientist and bioinformatician, I am now working as a comput
 &nbsp;
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideBrex)](https://github.com/DavideBrex/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=DavideBrex)](https://git.io/streak-stats)
+[![DavideBrex's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideBrex)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=DavideBrex)](https://git.io/streak-stats)
 
 
 
