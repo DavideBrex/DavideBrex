@@ -6,7 +6,7 @@
 
 ### Hi all!
 
-Trained as computer scientist and bioinformatician, I am now working as a computational biologist in the stem cells and cancer genomics laboratory at the University of Trento (PhD student). 
+Trained as a computer scientist and bioinformatician, I am now working as a computational biologist in the stem cells and cancer genomics laboratory at the University of Trento (PhD student). 
 
 🔭 I’m working on the epigenetics of liver regeneration and tumorigenesis. 
 
@@ -18,7 +18,7 @@ Trained as computer scientist and bioinformatician, I am now working as a comput
 
 
 
-[<img alt="alt_text" width="140px" src="logo-stackoverflow.png" />](https://stackoverflow.com/users/13328010/davidebrex?tab=profile) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="logo_gmail.png" alt="Unitn logo" width="50"  /> ](mailto:davide.bressan-1@unitn.it)
+[<img alt="alt_text" width="140px" src="logo-stackoverflow.png" />](https://stackoverflow.com/users/13328010/davidebrex?tab=profile) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="logo_gmail.png" alt="Unitn logo" width="50"/>](mailto:davide.bressan-1@unitn.it)
  &nbsp;&nbsp;&nbsp;&nbsp;  [<img alt="alt_text" width="40px" src="linkedin_logo.png" />](https://www.linkedin.com/in/davide-bressan/)
 
 &nbsp;
