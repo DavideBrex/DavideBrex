@@ -6,7 +6,7 @@
 
 ### Hi all!
 
-Trained as a computer scientist and bioinformatician, I am now working as a computational biologist in the stem cells and cancer genomics laboratory at the University of Trento (PhD student). 
+Trained as a computer scientist and bioinformatician, I am now a postdoctoral researcher in the stem cells and cancer genomics laboratory at the University of Trento.
 
 🔭 I’m working on the epigenetics of liver regeneration and tumorigenesis. 
 
